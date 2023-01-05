@@ -1,0 +1,32 @@
+{
+  "notes": [
+    {
+      "_id": 0,
+      "author": "Eric Trotchie",
+      "title": "Rust Lang Resources",
+      "date": "some-sort-of-format",
+      "list": true,
+      "body": {
+        "list": [
+          "https://www.rust-lang.org/",
+          "https://doc.rust-lang.org/book/",
+          "https://github.com/rust-lang/rustlings/",
+          "https://doc.rust-lang.org/stable/rust-by-example/"
+        ],
+        "paragraph": ""
+      }
+    },
+    {
+      "_id": 1,
+      "author": "Eric Trotchie",
+      "title": "Reminder",
+      "date": "some-sort-of-format",
+      "list": false,
+      "body": {
+        "list":[],
+        "paragraph": "Drink plemty of water and vodka everyday"
+      }
+
+    }
+  ]
+}

@@ -1,6 +1,7 @@
 extern crate handlebars;
 
 mod api;
+mod utils;
 
 use api::Routes;
 

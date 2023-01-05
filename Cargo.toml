@@ -8,6 +8,8 @@ edition = "2021"
 [dependencies]
 actix-web = "*"
 actix-files = "*"
+serde = { version = "*", features = ["derive"] }
+serde_derive = "*"
 serde_json = "*"
 reqwest = { version = "*", features = ["json"] }
 handlebars = { version = "*", features = ["dir_source"] }
